@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Siamo i Giovani Democratici di Torre Santa Susanna, ed abbiamo tanta voglia di fare. Per questo abbiamo ripreso il progetto di **contesto**, e lo abbiamo messo online.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Altre informazioni, arriveranno presto!
 
-### Contact me
+### Contattaci
 
-[email@domain.com](mailto:email@domain.com)
+[contestoweb1@gmail.com](mailto:contesto@gmail.com)
